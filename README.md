@@ -9,5 +9,5 @@ By combining some features, with a clean and intuitive design this app simplifie
 
 ## Screenshots:
 <img src="https://github.com/GnDinis/World-Clock-App/assets/162354946/8065d5e1-f8bb-4d7e-8182-a1ce028465b4" width="200" height="400" hspace="10"/>
-<img src="https://github.com/GnDinis/World-Clock-App/assets/162354946/c444a8b7-26e5-417c-90d4-176c8b33c812" width="200" height="400" hspace="10"/>
+<img src="https://github.com/GnDinis/World-Clock-App/assets/162354946/dc2a74df-385a-4846-bb89-a2f9d09d4f7b" width="200" height="400" hspace="10"/>
 <img src="https://github.com/GnDinis/World-Clock-App/assets/162354946/5079db73-2376-458d-b31b-de4501d2d0f9" width="200" height="400" hspace="10"/>
